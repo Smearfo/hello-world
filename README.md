@@ -1,2 +1,2 @@
 # hello-world
-First attempt at using github ¯\_(ツ)_/¯
+First attempt at using github ¯\\_(ツ)_/¯
